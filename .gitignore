@@ -289,4 +289,6 @@ __pycache__/
 
 #ignorer le répertoire content/app
 **/Angular6Mvc5Demo/Content/App/
+!**/Angular6Mvc5Demo/Content/App/.gitkeep
+
 **/Angular6Mvc5Demo/Angular6Mvc5Demo/dist/
