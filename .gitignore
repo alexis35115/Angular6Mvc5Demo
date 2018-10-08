@@ -288,4 +288,5 @@ __pycache__/
 *.xsd.cs
 
 #ignorer le répertoire content/app
-[Cc]ontent/[Aa]pp/
+/Angular6Mvc5Demo/Angular6Mvc5Demo/Content/App/
+/Angular6Mvc5Demo/Angular6Mvc5Demo/Angular6Mvc5Demo/dist/
